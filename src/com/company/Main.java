@@ -7,5 +7,7 @@ public class Main {
 
 	homework.Firstname="Noor";
 	homework.Lastname="Khan";
+
+		System.out.println(homework.Lastname);
     }
 }
